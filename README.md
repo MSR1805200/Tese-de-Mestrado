@@ -1,2 +1,2 @@
-# Tese-de-Mestrado
+# Tese de Mestrado
 Arquivos para a tese de mestrado
